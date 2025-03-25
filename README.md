@@ -1,1 +1,1 @@
-# Memorial
+This project is a memorial page for my dog Clyde. He tragically passed away last year when a neighbor's dog entered my yard and attacked him. I chose to do this because I believe he deserves this at the least.
